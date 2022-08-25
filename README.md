@@ -1,2 +1,2 @@
 My first readme
-Awesome programmer
+awesome programmer
